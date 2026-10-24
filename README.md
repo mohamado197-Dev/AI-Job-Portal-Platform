@@ -3,9 +3,9 @@
 This project is built using a multi-application architecture. It consists of three main parts. 
 You can find the source code for each part in their respective repositories below:
 
-🔗 
-🔗 
-🔗 
+🔗 [Job Seeker Portal Repository](https://github.com/mohamado197-Dev/job-app)
+🔗 [Admin & Company Backoffice Repository](https://github.com/mohamado197-Dev/job-backoffice)
+🔗 [Shared Models Package Repository](https://github.com/mohamado197-Dev/job-shared)
 
 AI-Powered Job Portal PlatformTech Stack: Laravel, PHP, PostgreSQL, Google Gemini AI, Docker, Tailwind CSS, Cloudinary, Spatie PDF-to-Text.
 
